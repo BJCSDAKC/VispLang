@@ -1,0 +1,9 @@
+extern void print(int*);
+extern int strsize(int*);
+
+
+func int main()
+{
+	print("Hello, world!\n");
+	return 5; 
+}
